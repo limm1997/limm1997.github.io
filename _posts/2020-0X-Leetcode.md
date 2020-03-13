@@ -1,3 +1,15 @@
+---
+layout:     post                    # 使用的布局
+title:      Leetcode               # 标题 
+subtitle:   #副标题
+date:       2019-01-04              # 时间
+author:     Doublefierce                      # 作者
+header-img: img/bg-post.jpg    #这篇文章标题背景图片
+catalog: true                       # 是否归档
+tags:                               #标签
+    - Leetcode
+---
+
 ### 1.两数之和
 
 使用查找表来解决该问题
