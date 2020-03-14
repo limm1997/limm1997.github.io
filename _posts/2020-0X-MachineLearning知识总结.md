@@ -1,15 +1,14 @@
 ---
-layout:     post                    # 使用的布局
-title:      Machine Learning              # 标题 
-subtitle:   #副标题
-date:       2019-01-04              # 时间
-author:     Doublefierce                      # 作者
-header-img: img/bg-post.jpg    #这篇文章标题背景图片
-catalog: true                       # 是否归档
-tags:                               #标签
+layout:     post
+title:      Machine Learning
+subtitle:   Algorithms and Concepts
+date:       2017-12-19
+author:     Doublefierce
+header-img: img/bg-post.jpg
+catalog: true
+tags:
     - ML
 ---
-
 
 
 ![img](https://pic4.zhimg.com/80/v2-5856319fb9f3d4c9a36d1b0b29c0e7aa_720w.png)

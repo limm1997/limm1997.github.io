@@ -1,14 +1,15 @@
 ---
-layout:     post                    # 使用的布局
-title:      Deep Learning               # 标题 
-subtitle:   #副标题
-date:       2019-01-04              # 时间
-author:     Doublefierce                      # 作者
-header-img: img/bg-post.jpg    #这篇文章标题背景图片
-catalog: true                       # 是否归档
-tags:                               #标签
+layout:     post
+title:      Neural Network and Deep Learning
+subtitle:   Improve deep neural network
+date:       2020-03-14
+author:     Doublefierce
+header-img: img/bg-post.jpg
+catalog: true
+tags:
     - DL
 ---
+
 
 ![img](https://pic2.zhimg.com/80/v2-0db16c79b4a9ad7ec688347567e39632_720w.jpeg)
 

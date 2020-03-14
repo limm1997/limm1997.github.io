@@ -1,14 +1,15 @@
 ---
-layout:     post                    # 使用的布局
-title:      Pytorch 框架               # 标题 
-subtitle:   #副标题
-date:       2019-01-04              # 时间
-author:     Doublefierce                      # 作者
-header-img: img/bg-post.jpg    #这篇文章标题背景图片
-catalog: true                       # 是否归档
-tags:                               #标签
+layout:     post
+title:      Pytorch框架
+subtitle:   
+date:       2020-03-14
+author:     Doublefierce
+header-img: img/bg-post.jpg
+catalog: true
+tags:
     - Pytorch
 ---
+
 
 Pytorch简介与安装
 
