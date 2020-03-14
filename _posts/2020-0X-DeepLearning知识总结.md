@@ -118,8 +118,10 @@ https://www.zhihu.com/question/59201590/answer/167392763
 L0、L1、L2范数
 
 http://blog.csdn.net/zouxy09/article/details/24971995
+
 核范数与规则项参数选择
 https://blog.csdn.net/zouxy09/article/details/24972869
+
 什么是正则化
 https://charlesliuyx.github.io/2017/10/03/%E3%80%90%E7%9B%B4%E8%A7%82%E8%AF%A6%E8%A7%A3%E3%80%91%E4%BB%80%E4%B9%88%E6%98%AF%E6%AD%A3%E5%88%99%E5%8C%96/
 
@@ -165,6 +167,7 @@ https://www.zhihu.com/question/47024992/answer/103962301
 
 深入理解优化器Optimizer算法（BGD、SGD、MBGD、Momentum、NAG、Adagrad、Adadelta、RMSprop、Adam）
 https://www.cnblogs.com/guoyaohua/p/8780548.html
+
 优化方法总结：SGD，Momentum，AdaGrad，RMSProp，Adam
 https://blog.csdn.net/u010089444/article/details/76725843
 
@@ -190,8 +193,10 @@ https://blog.csdn.net/lemonaha/article/details/72773056
 
 什么是批标准化 (Batch Normalization)
 https://zhuanlan.zhihu.com/p/24810318
+
 深入理解Batch Normalization批标准化
 https://www.cnblogs.com/guoyaohua/p/8724433.html
+
 关于Batch Normalization的另一种理解
 https://blog.csdn.net/AIchipmunk/article/details/54234646
 
