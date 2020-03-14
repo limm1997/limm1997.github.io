@@ -18,28 +18,43 @@ tags:
 - 损失函数
 
 一文读懂机器学习常用损失函数（Loss Function）
+
 https://www.cnblogs.com/guoyaohua/p/9217206.html
+
 学点基本功：机器学习常用损失函数小结
+
 https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/101875924
+
 机器学习中的损失函数 （着重比较：hinge loss vs softmax loss）
+
 https://blog.csdn.net/u010976453/article/details/78488279
+
 目标函数，损失函数和代价函数
+
 https://blog.csdn.net/qq_28448117/article/details/79199835
 
 - 交叉熵
 
 交叉熵（Cross-Entropy）
+
 https://blog.csdn.net/rtygbwwwerr/article/details/50778098
+
 一文搞懂交叉熵在机器学习中的使用，透彻理解交叉熵背后的直觉
+
 https://blog.csdn.net/tsyccnh/article/details/79163834
+
 交叉熵代价函数(损失函数)及其求导推导
+
 https://blog.csdn.net/jasonzzj/article/details/52017438
 
 - Softmax
 
 详解softmax函数以及相关求导过程
+
 https://blog.csdn.net/pql925/article/details/81010836
+
 斯坦福CS231n assignment1：softmax损失函数求导
+
 https://www.jianshu.com/p/6e405cecd609
 
 
@@ -48,8 +63,11 @@ https://www.jianshu.com/p/6e405cecd609
 
 激活函数实现的是一对一的变换，即用相同的函数对输入向量的每个分量进行映射，得到输出向量，输入和输出向量的维数相同。
 理解神经网络的激活函数
+
 https://mp.weixin.qq.com/s/ix5RJcGQ7SMGeU5Yz4z2dg
+
 常用激活函数（激励函数）理解与总结
+
 https://www.jianshu.com/writer#/notebooks/38075299/notes/57457007/preview
 
 
@@ -120,9 +138,11 @@ L0、L1、L2范数
 http://blog.csdn.net/zouxy09/article/details/24971995
 
 核范数与规则项参数选择
+
 https://blog.csdn.net/zouxy09/article/details/24972869
 
 什么是正则化
+
 https://charlesliuyx.github.io/2017/10/03/%E3%80%90%E7%9B%B4%E8%A7%82%E8%AF%A6%E8%A7%A3%E3%80%91%E4%BB%80%E4%B9%88%E6%98%AF%E6%AD%A3%E5%88%99%E5%8C%96/
 
 - dropout
@@ -166,9 +186,11 @@ https://www.zhihu.com/question/47024992/answer/103962301
 ### 优化算法
 
 深入理解优化器Optimizer算法（BGD、SGD、MBGD、Momentum、NAG、Adagrad、Adadelta、RMSprop、Adam）
+
 https://www.cnblogs.com/guoyaohua/p/8780548.html
 
 优化方法总结：SGD，Momentum，AdaGrad，RMSProp，Adam
+
 https://blog.csdn.net/u010089444/article/details/76725843
 
 
@@ -192,12 +214,15 @@ https://blog.csdn.net/lemonaha/article/details/72773056
 ### Batch Normalization
 
 什么是批标准化 (Batch Normalization)
+
 https://zhuanlan.zhihu.com/p/24810318
 
 深入理解Batch Normalization批标准化
+
 https://www.cnblogs.com/guoyaohua/p/8724433.html
 
 关于Batch Normalization的另一种理解
+
 https://blog.csdn.net/AIchipmunk/article/details/54234646
 
 

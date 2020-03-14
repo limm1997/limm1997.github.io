@@ -18,12 +18,15 @@ tags:
 ### 十大算法
 
 机器学习必学10大算法
+
 https://www.jiqizhixin.com/articles/2019-03-19-9
 
 Machine Learning: 十大机器学习算法
+
 https://www.jianshu.com/p/ac66b2d6400c
 
 机器学习十大经典算法入门
+
 https://blog.csdn.net/qq_42379006/article/details/80741808
 
 
@@ -77,9 +80,11 @@ https://blog.csdn.net/itplus/article/details/26550127
 ### 支持向量机
 
 支持向量机通俗导论
+
 https://blog.csdn.net/v_july_v/article/details/7624837
 
 支持向量机原理篇之手撕线性SVM
+
 https://cuijiahua.com/blog/2017/11/ml_8_svm_1.html
 
 支持向量机SVM
@@ -103,15 +108,19 @@ https://blog.csdn.net/zpalyq110/article/details/79527653
 ### EM算法
 
 从最大似然到EM算法浅解
+
 https://blog.csdn.net/zouxy09/article/details/8537620
 
 EM算法
+
 https://blog.csdn.net/zhihua_oba/article/details/73776553
 
 人人都懂EM算法
+
 https://zhuanlan.zhihu.com/p/36331115
 
 （EM算法）The EM Algorithm
+
 https://www.cnblogs.com/jerrylead/archive/2011/04/06/2006936.html
 
 
